@@ -7,7 +7,7 @@ public class Ejercicio_1 {
 	public static void main(String[] args) {
 
         listarNumerosPrimos(50);
-			listarSumarPrimos(50);
+		listarSumarPrimos(50);
 	}
 	
 	public static int[] listarNumerosPrimos(int cantidadMaxima)
